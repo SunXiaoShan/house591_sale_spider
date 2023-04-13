@@ -74,6 +74,6 @@ pip install beautifulsoup4
 ---
 
 ### Reference ###
-https://blog.jiatool.com/posts/house591_spider/
+https://blog.jiatool.com/posts/house591_spider
 https://github.com/it-jia/house591_spider
 https://github.com/vance0725/591_sale/blob/master/sale.js
